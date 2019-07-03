@@ -1,5 +1,5 @@
 letter = input()
-if(letter>="a" and letter<="z"):
+if letter>="a" and letter<="z":
     if letter in("a", "e", "i", "o", "u"):
         print("Vowel")
     else:

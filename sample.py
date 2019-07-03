@@ -1,9 +1,9 @@
-a=3
+a=0
 if(a==0):
-print("Zero")
+   print("Zero")
 elif(a<0):
-print("Negative")
+   print("Negative")
 elif(a>0):
-print("postive")
+   print("postive")
 else:
-print("Invalid")
+   print("Invalid")

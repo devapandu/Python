@@ -1,7 +1,7 @@
-a, b, c = map(int, input().split())
-if a > b or a > c:
+a,b,c = map(int,input().split())
+if a>b and a>c:
     print(a)
-elif b > c:
+elif b>c:
     print(b)
 else:
     print(c)

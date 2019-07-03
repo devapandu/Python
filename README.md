@@ -1,3 +1,3 @@
 # python
  
-In this project i am going to do all basic programs
+In this project i am doing basic programs

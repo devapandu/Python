@@ -1,2 +1,2 @@
 # Python
-here i am trying to learn some programming skill...in order to gain knwoledge i gave the sample code in python
+here i am going to show how the number can be decided whether it is "Zero" or "Positive" or "negative"
